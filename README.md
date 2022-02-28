@@ -1,10 +1,10 @@
 # Home-Automation-System
 
 # Team Members
-                Aditi Shukla 97943313133 aditishukla9794@gmail.com
-                Harsh Raj 9140965614 harshbasketball06@gmail.com
-                Shreya Singh Rathour 7380652352 shreyarathour0914@gmail.com
-                Vishesh Jain 8756413701 visheshj.vj68@gmail.com
+                Aditi Shukla -- aditishukla9794@gmail.com
+                Harsh Raj -- harshbasketball06@gmail.com
+                Shreya Singh Rathour -- shreyarathour0914@gmail.com
+                Vishesh Jain -- visheshj.vj68@gmail.com
 
 # PROJECT OVERVIEW/BACKGROUND:
 There is an increasing demand for smart homes, where appliances react automatically to changing environmental conditions and can be easily controlled through one common device.Home automation is the residential extension of “Building Automation”. It is the automation of the home, housework or household activity.
