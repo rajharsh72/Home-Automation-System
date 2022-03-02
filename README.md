@@ -9,8 +9,7 @@
 # PROJECT OVERVIEW/BACKGROUND:
 There is an increasing demand for smart homes, where appliances react automatically to changing environmental conditions and can be easily controlled through one common device.Home automation is the residential extension of “Building Automation”. It is the automation of the home, housework or household activity.
 
-In this project, our prime objective or goal is to assist handicapped or old aged people. It gives a basic idea of controlling various home appliances and provide a security using android phone or tablet. Our prime objective is to  assist handicapped/old aged people. This paper gives basic idea of controlling
-various home appliances and provide a security using Android phone or tablet.
+In this project, our prime objective or goal is to assist handicapped or old aged people. It gives a basic idea of controlling various home appliances and provide a security using android phone or tablet. 
 
 # BENEFITS TO THE SURROUNDING/SOCIETY:
 It is the expectation that adapting smart home automation (SHA) would lead to reduced electricity usage in the household and overall environmental advantages. The research showed that the use of home automation system could have a positive impact on the local peak load demand and reduction of energy consumption.
